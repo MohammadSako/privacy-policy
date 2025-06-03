@@ -1,2 +1,2 @@
 # privacy-policy
-privacy-policy
+privacy-policy for Maktabati App
